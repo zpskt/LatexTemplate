@@ -1,6 +1,6 @@
 # LatexTemplate
-放一些论文，简历之类的latex模板
-###简历
+放一些论文，简历之类的latex模板  
+### 简历
 放在resume文件夹  
 example1的来源：https://github.com/billryan/resume/    
 ### 论文模板  
